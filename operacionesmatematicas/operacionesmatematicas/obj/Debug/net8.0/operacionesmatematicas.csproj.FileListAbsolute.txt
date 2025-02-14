@@ -1,0 +1,14 @@
+C:\Users\Melgar\Desktop\PROGRAMACION\Laboratorio2\operacionesmatematicas\operacionesmatematicas\bin\Debug\net8.0\operacionesmatematicas.exe
+C:\Users\Melgar\Desktop\PROGRAMACION\Laboratorio2\operacionesmatematicas\operacionesmatematicas\bin\Debug\net8.0\operacionesmatematicas.deps.json
+C:\Users\Melgar\Desktop\PROGRAMACION\Laboratorio2\operacionesmatematicas\operacionesmatematicas\bin\Debug\net8.0\operacionesmatematicas.runtimeconfig.json
+C:\Users\Melgar\Desktop\PROGRAMACION\Laboratorio2\operacionesmatematicas\operacionesmatematicas\bin\Debug\net8.0\operacionesmatematicas.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\Laboratorio2\operacionesmatematicas\operacionesmatematicas\bin\Debug\net8.0\operacionesmatematicas.pdb
+C:\Users\Melgar\Desktop\PROGRAMACION\Laboratorio2\operacionesmatematicas\operacionesmatematicas\obj\Debug\net8.0\operacionesmatematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melgar\Desktop\PROGRAMACION\Laboratorio2\operacionesmatematicas\operacionesmatematicas\obj\Debug\net8.0\operacionesmatematicas.AssemblyInfoInputs.cache
+C:\Users\Melgar\Desktop\PROGRAMACION\Laboratorio2\operacionesmatematicas\operacionesmatematicas\obj\Debug\net8.0\operacionesmatematicas.AssemblyInfo.cs
+C:\Users\Melgar\Desktop\PROGRAMACION\Laboratorio2\operacionesmatematicas\operacionesmatematicas\obj\Debug\net8.0\operacionesmatematicas.csproj.CoreCompileInputs.cache
+C:\Users\Melgar\Desktop\PROGRAMACION\Laboratorio2\operacionesmatematicas\operacionesmatematicas\obj\Debug\net8.0\operacionesmatematicas.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\Laboratorio2\operacionesmatematicas\operacionesmatematicas\obj\Debug\net8.0\refint\operacionesmatematicas.dll
+C:\Users\Melgar\Desktop\PROGRAMACION\Laboratorio2\operacionesmatematicas\operacionesmatematicas\obj\Debug\net8.0\operacionesmatematicas.pdb
+C:\Users\Melgar\Desktop\PROGRAMACION\Laboratorio2\operacionesmatematicas\operacionesmatematicas\obj\Debug\net8.0\operacionesmatematicas.genruntimeconfig.cache
+C:\Users\Melgar\Desktop\PROGRAMACION\Laboratorio2\operacionesmatematicas\operacionesmatematicas\obj\Debug\net8.0\ref\operacionesmatematicas.dll
