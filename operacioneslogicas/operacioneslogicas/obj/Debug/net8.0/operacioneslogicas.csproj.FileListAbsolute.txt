@@ -1,0 +1,14 @@
+C:\Users\Melgar\Desktop\operacioneslogicas\operacioneslogicas\bin\Debug\net8.0\operacioneslogicas.exe
+C:\Users\Melgar\Desktop\operacioneslogicas\operacioneslogicas\bin\Debug\net8.0\operacioneslogicas.deps.json
+C:\Users\Melgar\Desktop\operacioneslogicas\operacioneslogicas\bin\Debug\net8.0\operacioneslogicas.runtimeconfig.json
+C:\Users\Melgar\Desktop\operacioneslogicas\operacioneslogicas\bin\Debug\net8.0\operacioneslogicas.dll
+C:\Users\Melgar\Desktop\operacioneslogicas\operacioneslogicas\bin\Debug\net8.0\operacioneslogicas.pdb
+C:\Users\Melgar\Desktop\operacioneslogicas\operacioneslogicas\obj\Debug\net8.0\operacioneslogicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melgar\Desktop\operacioneslogicas\operacioneslogicas\obj\Debug\net8.0\operacioneslogicas.AssemblyInfoInputs.cache
+C:\Users\Melgar\Desktop\operacioneslogicas\operacioneslogicas\obj\Debug\net8.0\operacioneslogicas.AssemblyInfo.cs
+C:\Users\Melgar\Desktop\operacioneslogicas\operacioneslogicas\obj\Debug\net8.0\operacioneslogicas.csproj.CoreCompileInputs.cache
+C:\Users\Melgar\Desktop\operacioneslogicas\operacioneslogicas\obj\Debug\net8.0\operacioneslogicas.dll
+C:\Users\Melgar\Desktop\operacioneslogicas\operacioneslogicas\obj\Debug\net8.0\refint\operacioneslogicas.dll
+C:\Users\Melgar\Desktop\operacioneslogicas\operacioneslogicas\obj\Debug\net8.0\operacioneslogicas.pdb
+C:\Users\Melgar\Desktop\operacioneslogicas\operacioneslogicas\obj\Debug\net8.0\operacioneslogicas.genruntimeconfig.cache
+C:\Users\Melgar\Desktop\operacioneslogicas\operacioneslogicas\obj\Debug\net8.0\ref\operacioneslogicas.dll
