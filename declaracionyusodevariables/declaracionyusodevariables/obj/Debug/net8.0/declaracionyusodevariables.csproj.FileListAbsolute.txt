@@ -1,0 +1,14 @@
+C:\Users\Melgar\Desktop\declaracionyusodevariables\declaracionyusodevariables\bin\Debug\net8.0\declaracionyusodevariables.exe
+C:\Users\Melgar\Desktop\declaracionyusodevariables\declaracionyusodevariables\bin\Debug\net8.0\declaracionyusodevariables.deps.json
+C:\Users\Melgar\Desktop\declaracionyusodevariables\declaracionyusodevariables\bin\Debug\net8.0\declaracionyusodevariables.runtimeconfig.json
+C:\Users\Melgar\Desktop\declaracionyusodevariables\declaracionyusodevariables\bin\Debug\net8.0\declaracionyusodevariables.dll
+C:\Users\Melgar\Desktop\declaracionyusodevariables\declaracionyusodevariables\bin\Debug\net8.0\declaracionyusodevariables.pdb
+C:\Users\Melgar\Desktop\declaracionyusodevariables\declaracionyusodevariables\obj\Debug\net8.0\declaracionyusodevariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melgar\Desktop\declaracionyusodevariables\declaracionyusodevariables\obj\Debug\net8.0\declaracionyusodevariables.AssemblyInfoInputs.cache
+C:\Users\Melgar\Desktop\declaracionyusodevariables\declaracionyusodevariables\obj\Debug\net8.0\declaracionyusodevariables.AssemblyInfo.cs
+C:\Users\Melgar\Desktop\declaracionyusodevariables\declaracionyusodevariables\obj\Debug\net8.0\declaracionyusodevariables.csproj.CoreCompileInputs.cache
+C:\Users\Melgar\Desktop\declaracionyusodevariables\declaracionyusodevariables\obj\Debug\net8.0\declaracionyusodevariables.dll
+C:\Users\Melgar\Desktop\declaracionyusodevariables\declaracionyusodevariables\obj\Debug\net8.0\refint\declaracionyusodevariables.dll
+C:\Users\Melgar\Desktop\declaracionyusodevariables\declaracionyusodevariables\obj\Debug\net8.0\declaracionyusodevariables.pdb
+C:\Users\Melgar\Desktop\declaracionyusodevariables\declaracionyusodevariables\obj\Debug\net8.0\declaracionyusodevariables.genruntimeconfig.cache
+C:\Users\Melgar\Desktop\declaracionyusodevariables\declaracionyusodevariables\obj\Debug\net8.0\ref\declaracionyusodevariables.dll
